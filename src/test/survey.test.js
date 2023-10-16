@@ -28,4 +28,5 @@ describe("Survey Model", function(){
 
         expect(result).to.equal("Intentional wrong sentneces");
     });
+    // this is the failed test
 });
